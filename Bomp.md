@@ -75,7 +75,7 @@ According to the above table, and after analyzing the challenge image in a hex e
 
 <br/><br/>
 
-I don't know the correct values that need to be fixed,
+I don't know the correct values, so I decided to try **random values** as an attepmt to fix the image,
 so I downloaded a random BMP image, then I copied **the image width**, **the image height**, **the number of color planes**, and **the bit depth** values from it
 to the challenge image,
 then I opened the challenge image with **GIMP**, and it looked like this:
